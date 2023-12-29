@@ -27,7 +27,7 @@ Feel free to explore the code, run the programs, and modify them as needed. The 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/csharp-data-types-exploration.git
+   git clone https://github.com/itsretsu/convertingdatatypes.git
    ```
 
 2. Dive into the `examples` and `conversion` directories to explore various aspects of C# data types.
